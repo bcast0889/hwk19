@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+header {
+  background-color: #0e0316;
+  padding: 80px;
+}
+header ul {
+  float: right;
+  color: rgb(244, 243, 245);
+  text-align: center;
+
+}
+header li {
+  display: inline-block;
+  padding: 5px 5px;
+}
+header p {
+  display: inline-block;
+}
+.heroImg {
+  background-color: #300355;
+  padding: 100px 100px;
+  text-align:center;
+}
+img{
+width:700px;
+height:700px;
+}
+
+.content {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: #cba4d3;
+  text-align: center;
+}
+button {
+  padding: 15px;
+  background-color: rgb(134, 59, 134);
+  color: rgb(243, 239, 243);
+  font-size: 15px;
+  border-radius: 4px;
+}
+footer {
+  background-color: #0e0316;
+  padding: 15px;
+  color: rgb(255, 255, 255);
+}
+footer ul {
+  list-style: none;
+  padding-left: 5px;
+}
+footer li {
+  display: inline-block;
+  padding: 0px 7px;
+}
